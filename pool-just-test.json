@@ -1,0 +1,6 @@
+{
+"name": "JustTestPool",
+"description": "The pool that tests all the pools",
+"ticker": "JPOOL",
+"homepage": "https://raw.githubusercontent.com/LoganMT/config-file/main/pool-just-test.json"
+}
